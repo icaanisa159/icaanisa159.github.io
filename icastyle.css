@@ -1,0 +1,49 @@
+/* BODY */
+body {
+  background-color: #fffee0;
+}
+
+/* SLIDER */
+.d-block {
+  max-height: 750px;
+  max-width: 1600px;
+}
+
+/* Jumbotron */
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #fffee0;
+}
+
+/* About */
+.about {
+  background-color: #e2f4e1;
+}
+.pendidikan {
+  background-color: #fffee0;
+}
+
+/*activity */
+.activity {
+  position: static;
+  background-color: #e2f4e1;
+}
+
+/* FORM */
+.container form button {
+  width: 100%;
+  padding: 5px 0;
+  border: none;
+  font-size: 18px;
+  border-radius: 20px;
+}
+
+footer {
+  padding: 5px;
+  background-color: #97d9a9;
+  text-align: center;
+}
+
+section {
+  padding-top: 5rem;
+}
